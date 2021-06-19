@@ -1,20 +1,62 @@
 [
-{
-"key": "40T747",
-"latitude": 45.470291,
-"longitude": 11.053550,
-"name": "40T747"
-},
-{
-"key": "42T749",
-"latitude": 45.345129,
-"longitude": 11.312632,
-"name": "42T749"
-},
-{
-"key": "42T735",
-"latitude": 45.734977,
-"longitude": 12.557414,
-"name": "42T735"
-}
+	{
+		"key": "40T747",
+		"latitude": 45.470291,
+		"longitude": 11.05355,
+		"name": "40T747"
+	},
+	{
+		"key": "42T749",
+		"latitude": 45.345129,
+		"longitude": 11.312632,
+		"name": "42T749"
+	},
+	{
+		"key": "42T735",
+		"latitude": 45.734977,
+		"longitude": 12.557414,
+		"name": "42T735"
+	},
+	{
+		"key": "42T734",
+		"latitude": 46.044783,
+		"longitude": 12.826307,
+		"name": "42T734"
+	},
+	{
+		"key": "42T732",
+		"latitude": 46.003274,
+		"longitude": 13.196182,
+		"name": "42T732"
+	},
+	{
+		"key": "42T740",
+		"latitude": 45.981807,
+		"longitude": 12.840114,
+		"name": "42T740"
+	},
+	{
+		"key": "42T733",
+		"latitude": 46.130799,
+		"longitude": 12.867829,
+		"name": "42T733"
+	},
+	{
+		"key": "42T754",
+		"latitude": 46.02265,
+		"longitude": 12.68643,
+		"name": "42T754"
+	},
+	{
+		"key": "42T746",
+		"latitude": 45.922002,
+		"longitude": 13.119059,
+		"name": "42T746"
+	},
+	{
+		"key": "42T753",
+		"latitude": 45.971504,
+		"longitude": 12.789916,
+		"name": "42T753"
+	}
 ]
