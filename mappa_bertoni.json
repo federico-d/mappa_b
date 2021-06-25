@@ -58,5 +58,29 @@
 		"latitude": 45.971504,
 		"longitude": 12.789916,
 		"name": "42T753"
+	},
+	{
+		"key": "42T736",
+		"latitude": 45.665222,
+		"longitude": 12.440788,
+		"name": "42T736"
+	},
+	{
+		"key": "42T729",
+		"latitude": 45.689112,
+		"longitude": 12.460385,
+		"name": "42T729"
+	},
+	{
+		"key": "42T745",
+		"latitude": 45.788242,
+		"longitude": 12.666752,
+		"name": "42T745"
+	},
+	{
+		"key": "42T763",
+		"latitude": 45.804118,
+		"longitude": 12.314654,
+		"name": "42T763"
 	}
 ]
